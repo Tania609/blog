@@ -1,4 +1,2 @@
 Prueba :)
 git hub
-cambios
-show nos muestra todos los detalles
